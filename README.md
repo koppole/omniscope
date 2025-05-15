@@ -8,6 +8,10 @@ Prerequisites:
 
 	Python 3.7+
 	PyRosetta 4 (academic license available at: https://www.rosettacommons.org/software/license-and-download)
+ 
+  	(pip install pyrosetta-installer 
+	python -c 'import pyrosetta_installer; pyrosetta_installer.install_pyrosetta()')
+ 
 	NumPy
 	Matplotlib (for visualization)
 	Pandas (for data analysis)
