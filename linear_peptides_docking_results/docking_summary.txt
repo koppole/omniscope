@@ -1,0 +1,443 @@
+PEPTIDE-ANTIBODY DOCKING SUMMARY
+===============================
+
+Peptide: 5_peptide_25mer
+Sequence: PHEILETYRALAGLYSERGLUGLYPHEASNCYSTYRPHEPROGLNSERTYRGLYGLNTHRASNGLYVALGLYTYR
+----------------------------------------
+  Antibody: Ab0
+  Binding CDR: CDR-L3
+  Initial Score: -402.30929913072146
+  Relaxed Score: -512.8311574828937
+  Binding to CDR: True
+  Contains Epitope: False
+  Output PDB: linear_peptides_docking_results/5_peptide_25mer_Ab0_CDR-L3_relaxed_complex.pdb
+  Energy Log: linear_peptides_docking_results/5_peptide_25mer_Ab0_CDR-L3_relax_energy.log
+
+  Antibody: Ab1
+  Binding CDR: CDR-L3
+  Initial Score: -226.52132803862406
+  Relaxed Score: -259.2491398253215
+  Binding to CDR: True
+  Contains Epitope: False
+  Output PDB: linear_peptides_docking_results/5_peptide_25mer_Ab1_CDR-L3_relaxed_complex.pdb
+  Energy Log: linear_peptides_docking_results/5_peptide_25mer_Ab1_CDR-L3_relax_energy.log
+
+
+Peptide: 2_peptide_15mer
+Sequence: ARGTHRGLYLYSASPTYRTYRTYRLEUPHEILETYRALAGLYSER
+----------------------------------------
+  Antibody: Ab0
+  Binding CDR: CDR-L2
+  Initial Score: -403.27332679408005
+  Relaxed Score: -514.4114173126793
+  Binding to CDR: True
+  Contains Epitope: False
+  Output PDB: linear_peptides_docking_results/2_peptide_15mer_Ab0_CDR-L2_relaxed_complex.pdb
+  Energy Log: linear_peptides_docking_results/2_peptide_15mer_Ab0_CDR-L2_relax_energy.log
+
+  Antibody: Ab1
+  Binding CDR: CDR-L3
+  Initial Score: -230.09828394472427
+  Relaxed Score: -241.70465437916138
+  Binding to CDR: True
+  Contains Epitope: False
+  Output PDB: linear_peptides_docking_results/2_peptide_15mer_Ab1_CDR-L3_relaxed_complex.pdb
+  Energy Log: linear_peptides_docking_results/2_peptide_15mer_Ab1_CDR-L3_relax_energy.log
+
+
+Peptide: 4_peptide_25mer
+Sequence: TYRTYRLEUPHEILETYRALAGLYSERGLUGLYPHEASNCYSTYRPHEPROGLNSERTYRGLYGLNTHRASNGLY
+----------------------------------------
+  Antibody: Ab0
+  Binding CDR: CDR-L1
+  Initial Score: -395.96077911886044
+  Relaxed Score: -507.8793410778477
+  Binding to CDR: True
+  Contains Epitope: False
+  Output PDB: linear_peptides_docking_results/4_peptide_25mer_Ab0_CDR-L1_relaxed_complex.pdb
+  Energy Log: linear_peptides_docking_results/4_peptide_25mer_Ab0_CDR-L1_relax_energy.log
+
+  Antibody: Ab1
+  Binding CDR: CDR-L1
+  Initial Score: -220.75130092024565
+  Relaxed Score: -267.30255147853615
+  Binding to CDR: True
+  Contains Epitope: False
+  Output PDB: linear_peptides_docking_results/4_peptide_25mer_Ab1_CDR-L1_relaxed_complex.pdb
+  Energy Log: linear_peptides_docking_results/4_peptide_25mer_Ab1_CDR-L1_relax_energy.log
+
+
+Peptide: 3_peptide_15mer
+Sequence: ASPTYRTYRTYRLEUPHEILETYRALAGLYSERGLUGLYPHEASN
+----------------------------------------
+  Antibody: Ab0
+  Binding CDR: CDR-L1
+  Initial Score: -401.17215145420874
+  Relaxed Score: -507.8781293434362
+  Binding to CDR: True
+  Contains Epitope: False
+  Output PDB: linear_peptides_docking_results/3_peptide_15mer_Ab0_CDR-L1_relaxed_complex.pdb
+  Energy Log: linear_peptides_docking_results/3_peptide_15mer_Ab0_CDR-L1_relax_energy.log
+
+  Antibody: Ab1
+  Binding CDR: CDR-L1
+  Initial Score: -226.41975025905302
+  Relaxed Score: -228.51892805313224
+  Binding to CDR: True
+  Contains Epitope: False
+  Output PDB: linear_peptides_docking_results/3_peptide_15mer_Ab1_CDR-L1_relaxed_complex.pdb
+  Energy Log: linear_peptides_docking_results/3_peptide_15mer_Ab1_CDR-L1_relax_energy.log
+
+
+Peptide: 1_peptide_25mer
+Sequence: LEUPHEILETYRALAGLYSERGLUGLYPHEASNCYSTYRPHEPROGLNSERTYRGLYGLNTHRASNGLYVALGLY
+----------------------------------------
+  Antibody: Ab0
+  Binding CDR: CDR-L3
+  Initial Score: 8779.243688469802
+  Relaxed Score: -462.3777796626563
+  Binding to CDR: True
+  Contains Epitope: False
+  Output PDB: linear_peptides_docking_results/1_peptide_25mer_Ab0_CDR-L3_relaxed_complex.pdb
+  Energy Log: linear_peptides_docking_results/1_peptide_25mer_Ab0_CDR-L3_relax_energy.log
+
+  Antibody: Ab1
+  Binding CDR: CDR-L3
+  Initial Score: -224.72627834662754
+  Relaxed Score: -269.96267177729203
+  Binding to CDR: True
+  Contains Epitope: False
+  Output PDB: linear_peptides_docking_results/1_peptide_25mer_Ab1_CDR-L3_relaxed_complex.pdb
+  Energy Log: linear_peptides_docking_results/1_peptide_25mer_Ab1_CDR-L3_relax_energy.log
+
+
+Peptide: 2_peptide_25mer
+Sequence: TYRLEUPHEILETYRALAGLYSERGLUGLYPHEASNCYSTYRPHEPROGLNSERTYRGLYGLNTHRASNGLYVAL
+----------------------------------------
+  Antibody: Ab0
+  Binding CDR: CDR-L3
+  Initial Score: -404.68665333226966
+  Relaxed Score: -512.5440123938143
+  Binding to CDR: True
+  Contains Epitope: False
+  Output PDB: linear_peptides_docking_results/2_peptide_25mer_Ab0_CDR-L3_relaxed_complex.pdb
+  Energy Log: linear_peptides_docking_results/2_peptide_25mer_Ab0_CDR-L3_relax_energy.log
+
+  Antibody: Ab1
+  Binding CDR: CDR-L3
+  Initial Score: -230.24081941683255
+  Relaxed Score: -184.8718312493953
+  Binding to CDR: True
+  Contains Epitope: False
+  Output PDB: linear_peptides_docking_results/2_peptide_25mer_Ab1_CDR-L3_relaxed_complex.pdb
+  Energy Log: linear_peptides_docking_results/2_peptide_25mer_Ab1_CDR-L3_relax_energy.log
+
+
+Peptide: 5_peptide_15mer
+Sequence: PHEILETYRALAGLYSERGLUGLYPHEASNCYSTYRPHEPROGLN
+----------------------------------------
+  Antibody: Ab0
+  Binding CDR: CDR-L1
+  Initial Score: -397.28130097401305
+  Relaxed Score: -508.8634102046842
+  Binding to CDR: True
+  Contains Epitope: False
+  Output PDB: linear_peptides_docking_results/5_peptide_15mer_Ab0_CDR-L1_relaxed_complex.pdb
+  Energy Log: linear_peptides_docking_results/5_peptide_15mer_Ab0_CDR-L1_relax_energy.log
+
+  Antibody: Ab1
+  Binding CDR: CDR-L1
+  Initial Score: -224.34130269832684
+  Relaxed Score: -252.7000834456403
+  Binding to CDR: True
+  Contains Epitope: False
+  Output PDB: linear_peptides_docking_results/5_peptide_15mer_Ab1_CDR-L1_relaxed_complex.pdb
+  Energy Log: linear_peptides_docking_results/5_peptide_15mer_Ab1_CDR-L1_relax_energy.log
+
+
+Peptide: 1_peptide_15mer
+Sequence: ARGARGTHRGLYLYSASPTYRTYRTYRLEUPHEILETYRALAGLY
+----------------------------------------
+  Antibody: Ab0
+  Binding CDR: CDR-L1
+  Initial Score: -400.24880874528776
+  Relaxed Score: -504.7788716671682
+  Binding to CDR: True
+  Contains Epitope: False
+  Output PDB: linear_peptides_docking_results/1_peptide_15mer_Ab0_CDR-L1_relaxed_complex.pdb
+  Energy Log: linear_peptides_docking_results/1_peptide_15mer_Ab0_CDR-L1_relax_energy.log
+
+  Antibody: Ab1
+  Binding CDR: CDR-L1
+  Initial Score: -222.98646136820042
+  Relaxed Score: -260.7875163183778
+  Binding to CDR: True
+  Contains Epitope: False
+  Output PDB: linear_peptides_docking_results/1_peptide_15mer_Ab1_CDR-L1_relaxed_complex.pdb
+  Energy Log: linear_peptides_docking_results/1_peptide_15mer_Ab1_CDR-L1_relax_energy.log
+
+
+Peptide: 3_peptide_25mer
+Sequence: ARGTHRGLYLYSASPTYRTYRTYRLEUPHEILETYRALAGLYSERGLUGLYPHEASNCYSTYRPHEPROGLNSER
+----------------------------------------
+  Antibody: Ab0
+  Binding CDR: CDR-L2
+  Initial Score: -403.9418715473369
+  Relaxed Score: -519.4519387986632
+  Binding to CDR: True
+  Contains Epitope: False
+  Output PDB: linear_peptides_docking_results/3_peptide_25mer_Ab0_CDR-L2_relaxed_complex.pdb
+  Energy Log: linear_peptides_docking_results/3_peptide_25mer_Ab0_CDR-L2_relax_energy.log
+
+  Antibody: Ab1
+  Binding CDR: CDR-L2
+  Initial Score: 1140.6206991459644
+  Relaxed Score: -214.32559266575612
+  Binding to CDR: True
+  Contains Epitope: False
+  Output PDB: linear_peptides_docking_results/3_peptide_25mer_Ab1_CDR-L2_relaxed_complex.pdb
+  Energy Log: linear_peptides_docking_results/3_peptide_25mer_Ab1_CDR-L2_relax_energy.log
+
+
+Peptide: 4_peptide_15mer
+Sequence: CYSTYRPHEPROGLNSERTYRGLYGLNTHRASNGLYVALGLYTYR
+----------------------------------------
+  Antibody: Ab0
+  Binding CDR: CDR-L2
+  Initial Score: -400.5107176838869
+  Relaxed Score: -511.42269737850154
+  Binding to CDR: True
+  Contains Epitope: False
+  Output PDB: linear_peptides_docking_results/4_peptide_15mer_Ab0_CDR-L2_relaxed_complex.pdb
+  Energy Log: linear_peptides_docking_results/4_peptide_15mer_Ab0_CDR-L2_relax_energy.log
+
+  Antibody: Ab1
+  Binding CDR: CDR-L2
+  Initial Score: -207.6970615298144
+  Relaxed Score: -265.03937534385557
+  Binding to CDR: True
+  Contains Epitope: False
+  Output PDB: linear_peptides_docking_results/4_peptide_15mer_Ab1_CDR-L2_relaxed_complex.pdb
+  Energy Log: linear_peptides_docking_results/4_peptide_15mer_Ab1_CDR-L2_relax_energy.log
+
+
+Peptide: 3_peptide_20mer
+Sequence: SERGLUGLYPHEASNCYSTYRPHEPROGLNSERTYRGLYGLNTHRASNGLYVALGLYTYR
+----------------------------------------
+  Antibody: Ab0
+  Binding CDR: CDR-L1
+  Initial Score: -404.64540565835625
+  Relaxed Score: -513.2380766780645
+  Binding to CDR: True
+  Contains Epitope: False
+  Output PDB: linear_peptides_docking_results/3_peptide_20mer_Ab0_CDR-L1_relaxed_complex.pdb
+  Energy Log: linear_peptides_docking_results/3_peptide_20mer_Ab0_CDR-L1_relax_energy.log
+
+  Antibody: Ab1
+  Binding CDR: CDR-L3
+  Initial Score: -224.35455427977834
+  Relaxed Score: -256.45837286611567
+  Binding to CDR: True
+  Contains Epitope: False
+  Output PDB: linear_peptides_docking_results/3_peptide_20mer_Ab1_CDR-L3_relaxed_complex.pdb
+  Energy Log: linear_peptides_docking_results/3_peptide_20mer_Ab1_CDR-L3_relax_energy.log
+
+
+Peptide: 5_peptide_12mer
+Sequence: ARGTHRGLYLYSASPTYRTYRTYRLEUPHEILETYR
+----------------------------------------
+  Antibody: Ab0
+  Binding CDR: CDR-L1
+  Initial Score: -397.2718202073338
+  Relaxed Score: -509.3518899947501
+  Binding to CDR: True
+  Contains Epitope: False
+  Output PDB: linear_peptides_docking_results/5_peptide_12mer_Ab0_CDR-L1_relaxed_complex.pdb
+  Energy Log: linear_peptides_docking_results/5_peptide_12mer_Ab0_CDR-L1_relax_energy.log
+
+  Antibody: Ab1
+  Binding CDR: CDR-L1
+  Initial Score: 869.0729679993057
+  Relaxed Score: -235.45568520337855
+  Binding to CDR: True
+  Contains Epitope: False
+  Output PDB: linear_peptides_docking_results/5_peptide_12mer_Ab1_CDR-L1_relaxed_complex.pdb
+  Energy Log: linear_peptides_docking_results/5_peptide_12mer_Ab1_CDR-L1_relax_energy.log
+
+
+Peptide: 1_peptide_12mer
+Sequence: ALAGLYSERGLUGLYPHEASNCYSTYRPHEPROGLN
+----------------------------------------
+  Antibody: Ab0
+  Binding CDR: CDR-L2
+  Initial Score: -406.1405257418708
+  Relaxed Score: -516.2182107057771
+  Binding to CDR: True
+  Contains Epitope: False
+  Output PDB: linear_peptides_docking_results/1_peptide_12mer_Ab0_CDR-L2_relaxed_complex.pdb
+  Energy Log: linear_peptides_docking_results/1_peptide_12mer_Ab0_CDR-L2_relax_energy.log
+
+  Antibody: Ab1
+  Binding CDR: CDR-L3
+  Initial Score: -227.57400890940286
+  Relaxed Score: -258.7059339051556
+  Binding to CDR: True
+  Contains Epitope: False
+  Output PDB: linear_peptides_docking_results/1_peptide_12mer_Ab1_CDR-L3_relaxed_complex.pdb
+  Energy Log: linear_peptides_docking_results/1_peptide_12mer_Ab1_CDR-L3_relax_energy.log
+
+
+Peptide: 2_peptide_20mer
+Sequence: ILETYRALAGLYSERGLUGLYPHEASNCYSTYRPHEPROGLNSERTYRGLYGLNTHRASN
+----------------------------------------
+  Antibody: Ab0
+  Binding CDR: CDR-L1
+  Initial Score: -404.5447660102203
+  Relaxed Score: -515.8986708646938
+  Binding to CDR: True
+  Contains Epitope: False
+  Output PDB: linear_peptides_docking_results/2_peptide_20mer_Ab0_CDR-L1_relaxed_complex.pdb
+  Energy Log: linear_peptides_docking_results/2_peptide_20mer_Ab0_CDR-L1_relax_energy.log
+
+  Antibody: Ab1
+  Binding CDR: CDR-L1
+  Initial Score: -227.68537616281102
+  Relaxed Score: -254.15138968294212
+  Binding to CDR: True
+  Contains Epitope: False
+  Output PDB: linear_peptides_docking_results/2_peptide_20mer_Ab1_CDR-L1_relaxed_complex.pdb
+  Energy Log: linear_peptides_docking_results/2_peptide_20mer_Ab1_CDR-L1_relax_energy.log
+
+
+Peptide: 4_peptide_12mer
+Sequence: GLYSERGLUGLYPHEASNCYSTYRPHEPROGLNSER
+----------------------------------------
+  Antibody: Ab0
+  Binding CDR: CDR-L2
+  Initial Score: -361.39176672646755
+  Relaxed Score: -516.631455000775
+  Binding to CDR: True
+  Contains Epitope: False
+  Output PDB: linear_peptides_docking_results/4_peptide_12mer_Ab0_CDR-L2_relaxed_complex.pdb
+  Energy Log: linear_peptides_docking_results/4_peptide_12mer_Ab0_CDR-L2_relax_energy.log
+
+  Antibody: Ab1
+  Binding CDR: CDR-L3
+  Initial Score: -227.75261267411673
+  Relaxed Score: -274.6567286285033
+  Binding to CDR: True
+  Contains Epitope: False
+  Output PDB: linear_peptides_docking_results/4_peptide_12mer_Ab1_CDR-L3_relaxed_complex.pdb
+  Energy Log: linear_peptides_docking_results/4_peptide_12mer_Ab1_CDR-L3_relax_energy.log
+
+
+Peptide: 2_peptide_12mer
+Sequence: LEUPHEILETYRALAGLYSERGLUGLYPHEASNCYS
+----------------------------------------
+  Antibody: Ab0
+  Binding CDR: CDR-L2
+  Initial Score: -398.5309242967317
+  Relaxed Score: -511.2875558442743
+  Binding to CDR: True
+  Contains Epitope: False
+  Output PDB: linear_peptides_docking_results/2_peptide_12mer_Ab0_CDR-L2_relaxed_complex.pdb
+  Energy Log: linear_peptides_docking_results/2_peptide_12mer_Ab0_CDR-L2_relax_energy.log
+
+  Antibody: Ab1
+  Binding CDR: CDR-L2
+  Initial Score: -223.46382704328528
+  Relaxed Score: -254.69999040099606
+  Binding to CDR: True
+  Contains Epitope: False
+  Output PDB: linear_peptides_docking_results/2_peptide_12mer_Ab1_CDR-L2_relaxed_complex.pdb
+  Energy Log: linear_peptides_docking_results/2_peptide_12mer_Ab1_CDR-L2_relax_energy.log
+
+
+Peptide: 1_peptide_20mer
+Sequence: ASPTYRTYRTYRLEUPHEILETYRALAGLYSERGLUGLYPHEASNCYSTYRPHEPROGLN
+----------------------------------------
+  Antibody: Ab0
+  Binding CDR: CDR-L2
+  Initial Score: 11615.416226514593
+  Relaxed Score: -422.3596933795792
+  Binding to CDR: True
+  Contains Epitope: False
+  Output PDB: linear_peptides_docking_results/1_peptide_20mer_Ab0_CDR-L2_relaxed_complex.pdb
+  Energy Log: linear_peptides_docking_results/1_peptide_20mer_Ab0_CDR-L2_relax_energy.log
+
+  Antibody: Ab1
+  Binding CDR: CDR-L3
+  Initial Score: 10016.773529378774
+  Relaxed Score: -66.42306471928845
+  Binding to CDR: True
+  Contains Epitope: False
+  Output PDB: linear_peptides_docking_results/1_peptide_20mer_Ab1_CDR-L3_relaxed_complex.pdb
+  Energy Log: linear_peptides_docking_results/1_peptide_20mer_Ab1_CDR-L3_relax_energy.log
+
+
+Peptide: 4_peptide_20mer
+Sequence: ARGTHRGLYLYSASPTYRTYRTYRLEUPHEILETYRALAGLYSERGLUGLYPHEASNCYS
+----------------------------------------
+  Antibody: Ab0
+  Binding CDR: CDR-L2
+  Initial Score: -402.2306895319387
+  Relaxed Score: -519.861809231143
+  Binding to CDR: True
+  Contains Epitope: False
+  Output PDB: linear_peptides_docking_results/4_peptide_20mer_Ab0_CDR-L2_relaxed_complex.pdb
+  Energy Log: linear_peptides_docking_results/4_peptide_20mer_Ab0_CDR-L2_relax_energy.log
+
+  Antibody: Ab1
+  Binding CDR: CDR-L3
+  Initial Score: -223.48883503506792
+  Relaxed Score: -264.5299245141665
+  Binding to CDR: True
+  Contains Epitope: False
+  Output PDB: linear_peptides_docking_results/4_peptide_20mer_Ab1_CDR-L3_relaxed_complex.pdb
+  Energy Log: linear_peptides_docking_results/4_peptide_20mer_Ab1_CDR-L3_relax_energy.log
+
+
+Peptide: 3_peptide_12mer
+Sequence: GLYPHEASNCYSTYRPHEPROGLNSERTYRGLYGLN
+----------------------------------------
+  Antibody: Ab0
+  Binding CDR: CDR-L2
+  Initial Score: -404.7337055175931
+  Relaxed Score: -518.8992167198376
+  Binding to CDR: True
+  Contains Epitope: False
+  Output PDB: linear_peptides_docking_results/3_peptide_12mer_Ab0_CDR-L2_relaxed_complex.pdb
+  Energy Log: linear_peptides_docking_results/3_peptide_12mer_Ab0_CDR-L2_relax_energy.log
+
+  Antibody: Ab1
+  Binding CDR: CDR-L2
+  Initial Score: -135.7298304892625
+  Relaxed Score: -259.0708450692174
+  Binding to CDR: True
+  Contains Epitope: False
+  Output PDB: linear_peptides_docking_results/3_peptide_12mer_Ab1_CDR-L2_relaxed_complex.pdb
+  Energy Log: linear_peptides_docking_results/3_peptide_12mer_Ab1_CDR-L2_relax_energy.log
+
+
+Peptide: 5_peptide_20mer
+Sequence: PHEILETYRALAGLYSERGLUGLYPHEASNCYSTYRPHEPROGLNSERTYRGLYGLNTHR
+----------------------------------------
+  Antibody: Ab0
+  Binding CDR: CDR-L1
+  Initial Score: -402.7746265731231
+  Relaxed Score: -516.5731103460372
+  Binding to CDR: True
+  Contains Epitope: False
+  Output PDB: linear_peptides_docking_results/5_peptide_20mer_Ab0_CDR-L1_relaxed_complex.pdb
+  Energy Log: linear_peptides_docking_results/5_peptide_20mer_Ab0_CDR-L1_relax_energy.log
+
+  Antibody: Ab1
+  Binding CDR: CDR-L3
+  Initial Score: -226.93330464703823
+  Relaxed Score: -269.5253882207741
+  Binding to CDR: True
+  Contains Epitope: False
+  Output PDB: linear_peptides_docking_results/5_peptide_20mer_Ab1_CDR-L3_relaxed_complex.pdb
+  Energy Log: linear_peptides_docking_results/5_peptide_20mer_Ab1_CDR-L3_relax_energy.log
+
+

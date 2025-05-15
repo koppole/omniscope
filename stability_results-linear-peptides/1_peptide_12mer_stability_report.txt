@@ -1,0 +1,52 @@
+========================================
+       PEPTIDE STABILITY REPORT         
+========================================
+
+Peptide Length: 12 residues
+Sequence: ALAGLYSERGLUGLYPHEASNCYSTYRPHEPROGLN
+
+OVERALL STABILITY SCORE: 0.3/10
+Stability Classification: Very Low
+
+ENERGY ANALYSIS:
+Total Energy: -1.43
+Energy per Residue: -0.12
+Unstable Residues (high energy outliers):
+  F10: 1.65
+
+SECONDARY STRUCTURE ANALYSIS:
+Structure: LLLLLLLLLLLL
+Helix: 0.0%
+Sheet: 0.0%
+Loop: 100.0%
+Total Structured: 0.0%
+Structure-based Stability: Low
+
+RAMACHANDRAN ANALYSIS:
+Favorable: 0.0%
+Allowed: 0.0%
+Outlier: 100.0%
+Ramachandran-based Stability: Low
+
+Residues with unfavorable backbone geometry:
+  G2: Phi=9927.4, Psi=-10216.3
+  S3: Phi=-9038.5, Psi=9574.4
+  E4: Phi=-8594.8, Psi=9168.8
+  G5: Phi=9890.2, Psi=-10289.9
+  F6: Phi=-8897.2, Psi=9521.1
+  N7: Phi=-9418.9, Psi=-10308.9
+  C8: Phi=-8888.5, Psi=9890.2
+  Y9: Phi=-8659.8, Psi=9453.3
+  F10: Phi=-9167.2, Psi=8763.1
+  P11: Phi=-4022.0, Psi=8606.2
+
+TEMPERATURE STABILITY:
+Temperature stability could not be calculated
+
+SUMMARY AND RECOMMENDATIONS:
+This peptide shows very low stability overall.
+
+Recommendations to improve stability:
+1. Consider mutating high-energy residues to more favorable amino acids.
+2. The peptide has low secondary structure content. Consider adding helix or sheet stabilizing residues.
+3. Several residues have unfavorable backbone geometry. Redesign these regions or add stabilizing interactions.

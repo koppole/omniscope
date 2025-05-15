@@ -1,0 +1,10 @@
+=== Peptide Flexibility Analysis ===
+
+Number of ensemble structures: 5
+Average pairwise RMSD: 1.79 Å
+Maximum pairwise RMSD: 2.65 Å
+Flexibility classification: Medium
+
+Interpretation:
+This peptide shows moderate flexibility, with some regions able to
+adopt different conformations while maintaining an overall structure.

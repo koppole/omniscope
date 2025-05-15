@@ -1,0 +1,11 @@
+Residue	AA	Phi	Psi	Favorable	Allowed
+2	F	-8889.33	9519.91	False	False
+3	N	-9406.49	-10302.45	False	False
+4	C	-8860.84	9861.01	False	False
+5	Y	-8758.56	9538.96	False	False
+6	F	-6301.72	8830.94	False	False
+7	P	-3039.19	7629.01	False	False
+8	Q	-9493.53	9414.98	False	False
+9	S	-8924.37	9448.53	False	False
+10	Y	-8828.99	9545.60	False	False
+11	G	9957.35	-10280.89	False	False

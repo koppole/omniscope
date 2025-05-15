@@ -1,0 +1,443 @@
+PEPTIDE-ANTIBODY DOCKING SUMMARY
+===============================
+
+Peptide: 2_CyclicPeptide_15mer_chain_G
+Sequence: CYSLYSASPTYRTYRTYRLEUPHEILETYRALAGLYSERGLUCYS
+----------------------------------------
+  Antibody: Ab0
+  Binding CDR: CDR-L3
+  Initial Score: -374.6917157368615
+  Relaxed Score: -436.21810602110435
+  Binding to CDR: True
+  Contains Epitope: False
+  Output PDB: cyclic_peptides_docking_results/2_CyclicPeptide_15mer_chain_G_Ab0_CDR-L3_relaxed_complex.pdb
+  Energy Log: cyclic_peptides_docking_results/2_CyclicPeptide_15mer_chain_G_Ab0_CDR-L3_relax_energy.log
+
+  Antibody: Ab1
+  Binding CDR: CDR-L1
+  Initial Score: -201.44756164952838
+  Relaxed Score: -167.42820414892037
+  Binding to CDR: True
+  Contains Epitope: False
+  Output PDB: cyclic_peptides_docking_results/2_CyclicPeptide_15mer_chain_G_Ab1_CDR-L1_relaxed_complex.pdb
+  Energy Log: cyclic_peptides_docking_results/2_CyclicPeptide_15mer_chain_G_Ab1_CDR-L1_relax_energy.log
+
+
+Peptide: 5_CyclicPeptide_25mer_chain_G
+Sequence: CYSILETYRALAGLYSERGLUGLYPHEASNCYSTYRPHEPROGLNSERTYRGLYGLNTHRASNGLYVALGLYCYS
+----------------------------------------
+  Antibody: Ab0
+  Binding CDR: CDR-L2
+  Initial Score: -384.0115540904621
+  Relaxed Score: -473.003206891812
+  Binding to CDR: True
+  Contains Epitope: False
+  Output PDB: cyclic_peptides_docking_results/5_CyclicPeptide_25mer_chain_G_Ab0_CDR-L2_relaxed_complex.pdb
+  Energy Log: cyclic_peptides_docking_results/5_CyclicPeptide_25mer_chain_G_Ab0_CDR-L2_relax_energy.log
+
+  Antibody: Ab1
+  Binding CDR: CDR-L1
+  Initial Score: -197.90298404664182
+  Relaxed Score: -203.04719572663092
+  Binding to CDR: True
+  Contains Epitope: False
+  Output PDB: cyclic_peptides_docking_results/5_CyclicPeptide_25mer_chain_G_Ab1_CDR-L1_relaxed_complex.pdb
+  Energy Log: cyclic_peptides_docking_results/5_CyclicPeptide_25mer_chain_G_Ab1_CDR-L1_relax_energy.log
+
+
+Peptide: 2_CyclicPeptide_12mer_chain_G
+Sequence: CYSTYRALAGLYSERGLUGLYPHEASNCYSTYRCYS
+----------------------------------------
+  Antibody: Ab0
+  Binding CDR: CDR-L3
+  Initial Score: -381.19670121419244
+  Relaxed Score: -496.4816479375994
+  Binding to CDR: True
+  Contains Epitope: False
+  Output PDB: cyclic_peptides_docking_results/2_CyclicPeptide_12mer_chain_G_Ab0_CDR-L3_relaxed_complex.pdb
+  Energy Log: cyclic_peptides_docking_results/2_CyclicPeptide_12mer_chain_G_Ab0_CDR-L3_relax_energy.log
+
+  Antibody: Ab1
+  Binding CDR: CDR-L1
+  Initial Score: -206.02515785418515
+  Relaxed Score: -207.7616831411093
+  Binding to CDR: True
+  Contains Epitope: False
+  Output PDB: cyclic_peptides_docking_results/2_CyclicPeptide_12mer_chain_G_Ab1_CDR-L1_relaxed_complex.pdb
+  Energy Log: cyclic_peptides_docking_results/2_CyclicPeptide_12mer_chain_G_Ab1_CDR-L1_relax_energy.log
+
+
+Peptide: 3_CyclicPeptide_20mer_chain_G
+Sequence: CYSPHEILETYRALAGLYSERGLUGLYPHEASNCYSTYRPHEPROGLNSERTYRGLYCYS
+----------------------------------------
+  Antibody: Ab0
+  Binding CDR: CDR-L3
+  Initial Score: -389.77481494127824
+  Relaxed Score: -491.7542842345082
+  Binding to CDR: True
+  Contains Epitope: False
+  Output PDB: cyclic_peptides_docking_results/3_CyclicPeptide_20mer_chain_G_Ab0_CDR-L3_relaxed_complex.pdb
+  Energy Log: cyclic_peptides_docking_results/3_CyclicPeptide_20mer_chain_G_Ab0_CDR-L3_relax_energy.log
+
+  Antibody: Ab1
+  Binding CDR: CDR-L3
+  Initial Score: -211.70898487408766
+  Relaxed Score: -234.07141095287963
+  Binding to CDR: True
+  Contains Epitope: False
+  Output PDB: cyclic_peptides_docking_results/3_CyclicPeptide_20mer_chain_G_Ab1_CDR-L3_relaxed_complex.pdb
+  Energy Log: cyclic_peptides_docking_results/3_CyclicPeptide_20mer_chain_G_Ab1_CDR-L3_relax_energy.log
+
+
+Peptide: 1_CyclicPeptide_15mer_chain_G
+Sequence: CYSTYRALAGLYSERGLUGLYPHEASNCYSTYRPHEPROGLNCYS
+----------------------------------------
+  Antibody: Ab0
+  Binding CDR: CDR-L3
+  Initial Score: -263.6394834798172
+  Relaxed Score: -485.68473075509525
+  Binding to CDR: True
+  Contains Epitope: False
+  Output PDB: cyclic_peptides_docking_results/1_CyclicPeptide_15mer_chain_G_Ab0_CDR-L3_relaxed_complex.pdb
+  Energy Log: cyclic_peptides_docking_results/1_CyclicPeptide_15mer_chain_G_Ab0_CDR-L3_relax_energy.log
+
+  Antibody: Ab1
+  Binding CDR: CDR-L1
+  Initial Score: -226.78354361104803
+  Relaxed Score: -248.70439100064246
+  Binding to CDR: True
+  Contains Epitope: False
+  Output PDB: cyclic_peptides_docking_results/1_CyclicPeptide_15mer_chain_G_Ab1_CDR-L1_relaxed_complex.pdb
+  Energy Log: cyclic_peptides_docking_results/1_CyclicPeptide_15mer_chain_G_Ab1_CDR-L1_relax_energy.log
+
+
+Peptide: 5_CyclicPeptide_20mer_chain_G
+Sequence: CYSTYRALAGLYSERGLUGLYPHEASNCYSTYRPHEPROGLNSERTYRGLYGLNTHRCYS
+----------------------------------------
+  Antibody: Ab0
+  Binding CDR: CDR-L2
+  Initial Score: -377.3481030474715
+  Relaxed Score: -456.1567410294243
+  Binding to CDR: True
+  Contains Epitope: False
+  Output PDB: cyclic_peptides_docking_results/5_CyclicPeptide_20mer_chain_G_Ab0_CDR-L2_relaxed_complex.pdb
+  Energy Log: cyclic_peptides_docking_results/5_CyclicPeptide_20mer_chain_G_Ab0_CDR-L2_relax_energy.log
+
+  Antibody: Ab1
+  Binding CDR: CDR-L3
+  Initial Score: -147.68732868788743
+  Relaxed Score: -199.0458645201436
+  Binding to CDR: True
+  Contains Epitope: False
+  Output PDB: cyclic_peptides_docking_results/5_CyclicPeptide_20mer_chain_G_Ab1_CDR-L3_relaxed_complex.pdb
+  Energy Log: cyclic_peptides_docking_results/5_CyclicPeptide_20mer_chain_G_Ab1_CDR-L3_relax_energy.log
+
+
+Peptide: 4_CyclicPeptide_12mer_chain_G
+Sequence: CYSTYRTYRLEUPHEILETYRALAGLYSERGLUCYS
+----------------------------------------
+  Antibody: Ab0
+  Binding CDR: CDR-L3
+  Initial Score: -383.5866194985075
+  Relaxed Score: -149.6709127471671
+  Binding to CDR: True
+  Contains Epitope: False
+  Output PDB: cyclic_peptides_docking_results/4_CyclicPeptide_12mer_chain_G_Ab0_CDR-L3_relaxed_complex.pdb
+  Energy Log: cyclic_peptides_docking_results/4_CyclicPeptide_12mer_chain_G_Ab0_CDR-L3_relax_energy.log
+
+  Antibody: Ab1
+  Binding CDR: CDR-L1
+  Initial Score: -205.53277036938346
+  Relaxed Score: 88.54290271402516
+  Binding to CDR: True
+  Contains Epitope: False
+  Output PDB: cyclic_peptides_docking_results/4_CyclicPeptide_12mer_chain_G_Ab1_CDR-L1_relaxed_complex.pdb
+  Energy Log: cyclic_peptides_docking_results/4_CyclicPeptide_12mer_chain_G_Ab1_CDR-L1_relax_energy.log
+
+
+Peptide: 3_CyclicPeptide_25mer_chain_G
+Sequence: CYSASPTYRTYRTYRLEUPHEILETYRALAGLYSERGLUGLYPHEASNCYSTYRPHEPROGLNSERTYRGLYCYS
+----------------------------------------
+  Antibody: Ab0
+  Binding CDR: CDR-L3
+  Initial Score: -390.9537533902702
+  Relaxed Score: -485.5563656332713
+  Binding to CDR: True
+  Contains Epitope: False
+  Output PDB: cyclic_peptides_docking_results/3_CyclicPeptide_25mer_chain_G_Ab0_CDR-L3_relaxed_complex.pdb
+  Energy Log: cyclic_peptides_docking_results/3_CyclicPeptide_25mer_chain_G_Ab0_CDR-L3_relax_energy.log
+
+  Antibody: Ab1
+  Binding CDR: CDR-L3
+  Initial Score: -215.55160120611552
+  Relaxed Score: -234.61770027095255
+  Binding to CDR: True
+  Contains Epitope: False
+  Output PDB: cyclic_peptides_docking_results/3_CyclicPeptide_25mer_chain_G_Ab1_CDR-L3_relaxed_complex.pdb
+  Energy Log: cyclic_peptides_docking_results/3_CyclicPeptide_25mer_chain_G_Ab1_CDR-L3_relax_energy.log
+
+
+Peptide: 1_CyclicPeptide_12mer_chain_G
+Sequence: CYSGLYSERGLUGLYPHEASNCYSTYRPHEPROCYS
+----------------------------------------
+  Antibody: Ab0
+  Binding CDR: CDR-L3
+  Initial Score: -390.1549641853426
+  Relaxed Score: -491.65096666078637
+  Binding to CDR: True
+  Contains Epitope: False
+  Output PDB: cyclic_peptides_docking_results/1_CyclicPeptide_12mer_chain_G_Ab0_CDR-L3_relaxed_complex.pdb
+  Energy Log: cyclic_peptides_docking_results/1_CyclicPeptide_12mer_chain_G_Ab0_CDR-L3_relax_energy.log
+
+  Antibody: Ab1
+  Binding CDR: CDR-L1
+  Initial Score: -212.27823581128763
+  Relaxed Score: -243.2611359312717
+  Binding to CDR: True
+  Contains Epitope: False
+  Output PDB: cyclic_peptides_docking_results/1_CyclicPeptide_12mer_chain_G_Ab1_CDR-L1_relaxed_complex.pdb
+  Energy Log: cyclic_peptides_docking_results/1_CyclicPeptide_12mer_chain_G_Ab1_CDR-L1_relax_energy.log
+
+
+Peptide: 4_CyclicPeptide_15mer_chain_G
+Sequence: CYSGLYSERGLUGLYPHEASNCYSTYRPHEPROGLNSERTYRCYS
+----------------------------------------
+  Antibody: Ab0
+  Binding CDR: CDR-L1
+  Initial Score: -396.79767554334785
+  Relaxed Score: -408.21509516409253
+  Binding to CDR: True
+  Contains Epitope: False
+  Output PDB: cyclic_peptides_docking_results/4_CyclicPeptide_15mer_chain_G_Ab0_CDR-L1_relaxed_complex.pdb
+  Energy Log: cyclic_peptides_docking_results/4_CyclicPeptide_15mer_chain_G_Ab0_CDR-L1_relax_energy.log
+
+  Antibody: Ab1
+  Binding CDR: CDR-L1
+  Initial Score: -219.92370392394253
+  Relaxed Score: -149.7757713456341
+  Binding to CDR: True
+  Contains Epitope: False
+  Output PDB: cyclic_peptides_docking_results/4_CyclicPeptide_15mer_chain_G_Ab1_CDR-L1_relaxed_complex.pdb
+  Energy Log: cyclic_peptides_docking_results/4_CyclicPeptide_15mer_chain_G_Ab1_CDR-L1_relax_energy.log
+
+
+Peptide: 1_CyclicPeptide_20mer_chain_G
+Sequence: CYSARGARGTHRGLYLYSASPTYRTYRTYRLEUPHEILETYRALAGLYSERGLUGLYCYS
+----------------------------------------
+  Antibody: Ab0
+  Binding CDR: CDR-L3
+  Initial Score: -49.021272661493285
+  Relaxed Score: -3.0331395454336985
+  Binding to CDR: True
+  Contains Epitope: False
+  Output PDB: cyclic_peptides_docking_results/1_CyclicPeptide_20mer_chain_G_Ab0_CDR-L3_relaxed_complex.pdb
+  Energy Log: cyclic_peptides_docking_results/1_CyclicPeptide_20mer_chain_G_Ab0_CDR-L3_relax_energy.log
+
+  Antibody: Ab1
+  Binding CDR: CDR-L1
+  Initial Score: -144.30483093387934
+  Relaxed Score: 286.53921154527256
+  Binding to CDR: True
+  Contains Epitope: False
+  Output PDB: cyclic_peptides_docking_results/1_CyclicPeptide_20mer_chain_G_Ab1_CDR-L1_relaxed_complex.pdb
+  Energy Log: cyclic_peptides_docking_results/1_CyclicPeptide_20mer_chain_G_Ab1_CDR-L1_relax_energy.log
+
+
+Peptide: 5_CyclicPeptide_15mer_chain_G
+Sequence: CYSALAGLYSERGLUGLYPHEASNCYSTYRPHEPROGLNSERCYS
+----------------------------------------
+  Antibody: Ab0
+  Binding CDR: CDR-L3
+  Initial Score: -382.39249803437235
+  Relaxed Score: -456.00747235924956
+  Binding to CDR: True
+  Contains Epitope: False
+  Output PDB: cyclic_peptides_docking_results/5_CyclicPeptide_15mer_chain_G_Ab0_CDR-L3_relaxed_complex.pdb
+  Energy Log: cyclic_peptides_docking_results/5_CyclicPeptide_15mer_chain_G_Ab0_CDR-L3_relax_energy.log
+
+  Antibody: Ab1
+  Binding CDR: CDR-L1
+  Initial Score: -204.11122213149451
+  Relaxed Score: -213.12933955796532
+  Binding to CDR: True
+  Contains Epitope: False
+  Output PDB: cyclic_peptides_docking_results/5_CyclicPeptide_15mer_chain_G_Ab1_CDR-L1_relaxed_complex.pdb
+  Energy Log: cyclic_peptides_docking_results/5_CyclicPeptide_15mer_chain_G_Ab1_CDR-L1_relax_energy.log
+
+
+Peptide: 2_CyclicPeptide_25mer_chain_G
+Sequence: CYSARGTHRGLYLYSASPTYRTYRTYRLEUPHEILETYRALAGLYSERGLUGLYPHEASNCYSTYRPHEPROCYS
+----------------------------------------
+  Antibody: Ab0
+  Binding CDR: CDR-L3
+  Initial Score: 302.01641425187734
+  Relaxed Score: -472.2345585697231
+  Binding to CDR: True
+  Contains Epitope: False
+  Output PDB: cyclic_peptides_docking_results/2_CyclicPeptide_25mer_chain_G_Ab0_CDR-L3_relaxed_complex.pdb
+  Energy Log: cyclic_peptides_docking_results/2_CyclicPeptide_25mer_chain_G_Ab0_CDR-L3_relax_energy.log
+
+  Antibody: Ab1
+  Binding CDR: CDR-L3
+  Initial Score: -230.2122521562333
+  Relaxed Score: -214.5185338855007
+  Binding to CDR: True
+  Contains Epitope: False
+  Output PDB: cyclic_peptides_docking_results/2_CyclicPeptide_25mer_chain_G_Ab1_CDR-L3_relaxed_complex.pdb
+  Energy Log: cyclic_peptides_docking_results/2_CyclicPeptide_25mer_chain_G_Ab1_CDR-L3_relax_energy.log
+
+
+Peptide: 5_CyclicPeptide_12mer_chain_G
+Sequence: CYSGLYPHEASNCYSTYRPHEPROGLNSERTYRCYS
+----------------------------------------
+  Antibody: Ab0
+  Binding CDR: CDR-L2
+  Initial Score: -382.5646648712568
+  Relaxed Score: -439.79067918176526
+  Binding to CDR: True
+  Contains Epitope: False
+  Output PDB: cyclic_peptides_docking_results/5_CyclicPeptide_12mer_chain_G_Ab0_CDR-L2_relaxed_complex.pdb
+  Energy Log: cyclic_peptides_docking_results/5_CyclicPeptide_12mer_chain_G_Ab0_CDR-L2_relax_energy.log
+
+  Antibody: Ab1
+  Binding CDR: CDR-L1
+  Initial Score: -205.68891834014175
+  Relaxed Score: -181.7624805825938
+  Binding to CDR: True
+  Contains Epitope: False
+  Output PDB: cyclic_peptides_docking_results/5_CyclicPeptide_12mer_chain_G_Ab1_CDR-L1_relaxed_complex.pdb
+  Energy Log: cyclic_peptides_docking_results/5_CyclicPeptide_12mer_chain_G_Ab1_CDR-L1_relax_energy.log
+
+
+Peptide: 4_CyclicPeptide_20mer_chain_G
+Sequence: CYSSERGLUGLYPHEASNCYSTYRPHEPROGLNSERTYRGLYGLNTHRASNGLYVALCYS
+----------------------------------------
+  Antibody: Ab0
+  Binding CDR: CDR-L1
+  Initial Score: -384.6142019604338
+  Relaxed Score: -458.72663114857033
+  Binding to CDR: True
+  Contains Epitope: False
+  Output PDB: cyclic_peptides_docking_results/4_CyclicPeptide_20mer_chain_G_Ab0_CDR-L1_relaxed_complex.pdb
+  Energy Log: cyclic_peptides_docking_results/4_CyclicPeptide_20mer_chain_G_Ab0_CDR-L1_relax_energy.log
+
+  Antibody: Ab1
+  Binding CDR: CDR-L3
+  Initial Score: -205.3315007981831
+  Relaxed Score: -213.40500465390602
+  Binding to CDR: True
+  Contains Epitope: False
+  Output PDB: cyclic_peptides_docking_results/4_CyclicPeptide_20mer_chain_G_Ab1_CDR-L3_relaxed_complex.pdb
+  Energy Log: cyclic_peptides_docking_results/4_CyclicPeptide_20mer_chain_G_Ab1_CDR-L3_relax_energy.log
+
+
+Peptide: 2_CyclicPeptide_20mer_chain_G
+Sequence: CYSGLYLYSASPTYRTYRTYRLEUPHEILETYRALAGLYSERGLUGLYPHEASNCYSCYS
+----------------------------------------
+  Antibody: Ab0
+  Binding CDR: CDR-L1
+  Initial Score: 971.3134948605192
+  Relaxed Score: -464.31221127765565
+  Binding to CDR: True
+  Contains Epitope: False
+  Output PDB: cyclic_peptides_docking_results/2_CyclicPeptide_20mer_chain_G_Ab0_CDR-L1_relaxed_complex.pdb
+  Energy Log: cyclic_peptides_docking_results/2_CyclicPeptide_20mer_chain_G_Ab0_CDR-L1_relax_energy.log
+
+  Antibody: Ab1
+  Binding CDR: CDR-L1
+  Initial Score: 93.31991682550868
+  Relaxed Score: -235.53293627715868
+  Binding to CDR: True
+  Contains Epitope: False
+  Output PDB: cyclic_peptides_docking_results/2_CyclicPeptide_20mer_chain_G_Ab1_CDR-L1_relaxed_complex.pdb
+  Energy Log: cyclic_peptides_docking_results/2_CyclicPeptide_20mer_chain_G_Ab1_CDR-L1_relax_energy.log
+
+
+Peptide: 1_CyclicPeptide_25mer_chain_G
+Sequence: CYSARGARGTHRGLYLYSASPTYRTYRTYRLEUPHEILETYRALAGLYSERGLUGLYPHEASNCYSTYRPHECYS
+----------------------------------------
+  Antibody: Ab0
+  Binding CDR: CDR-L3
+  Initial Score: -410.9394247327447
+  Relaxed Score: -336.0470879265241
+  Binding to CDR: True
+  Contains Epitope: False
+  Output PDB: cyclic_peptides_docking_results/1_CyclicPeptide_25mer_chain_G_Ab0_CDR-L3_relaxed_complex.pdb
+  Energy Log: cyclic_peptides_docking_results/1_CyclicPeptide_25mer_chain_G_Ab0_CDR-L3_relax_energy.log
+
+  Antibody: Ab1
+  Binding CDR: CDR-L3
+  Initial Score: -235.02196407793502
+  Relaxed Score: -84.39454447639335
+  Binding to CDR: True
+  Contains Epitope: False
+  Output PDB: cyclic_peptides_docking_results/1_CyclicPeptide_25mer_chain_G_Ab1_CDR-L3_relaxed_complex.pdb
+  Energy Log: cyclic_peptides_docking_results/1_CyclicPeptide_25mer_chain_G_Ab1_CDR-L3_relax_energy.log
+
+
+Peptide: 3_CyclicPeptide_12mer_chain_G
+Sequence: CYSILETYRALAGLYSERGLUGLYPHEASNCYSCYS
+----------------------------------------
+  Antibody: Ab0
+  Binding CDR: CDR-L3
+  Initial Score: -382.2426987431274
+  Relaxed Score: -484.74898027979856
+  Binding to CDR: True
+  Contains Epitope: False
+  Output PDB: cyclic_peptides_docking_results/3_CyclicPeptide_12mer_chain_G_Ab0_CDR-L3_relaxed_complex.pdb
+  Energy Log: cyclic_peptides_docking_results/3_CyclicPeptide_12mer_chain_G_Ab0_CDR-L3_relax_energy.log
+
+  Antibody: Ab1
+  Binding CDR: CDR-L1
+  Initial Score: -204.80906064159205
+  Relaxed Score: -241.0626059262072
+  Binding to CDR: True
+  Contains Epitope: False
+  Output PDB: cyclic_peptides_docking_results/3_CyclicPeptide_12mer_chain_G_Ab1_CDR-L1_relaxed_complex.pdb
+  Energy Log: cyclic_peptides_docking_results/3_CyclicPeptide_12mer_chain_G_Ab1_CDR-L1_relax_energy.log
+
+
+Peptide: 4_CyclicPeptide_25mer_chain_G
+Sequence: CYSPHEILETYRALAGLYSERGLUGLYPHEASNCYSTYRPHEPROGLNSERTYRGLYGLNTHRASNGLYVALCYS
+----------------------------------------
+  Antibody: Ab0
+  Binding CDR: CDR-L3
+  Initial Score: 8672.9674217195
+  Relaxed Score: -463.99934287549445
+  Binding to CDR: True
+  Contains Epitope: False
+  Output PDB: cyclic_peptides_docking_results/4_CyclicPeptide_25mer_chain_G_Ab0_CDR-L3_relaxed_complex.pdb
+  Energy Log: cyclic_peptides_docking_results/4_CyclicPeptide_25mer_chain_G_Ab0_CDR-L3_relax_energy.log
+
+  Antibody: Ab1
+  Binding CDR: CDR-L3
+  Initial Score: 1279.65567385458
+  Relaxed Score: -129.9169084579338
+  Binding to CDR: True
+  Contains Epitope: False
+  Output PDB: cyclic_peptides_docking_results/4_CyclicPeptide_25mer_chain_G_Ab1_CDR-L3_relaxed_complex.pdb
+  Energy Log: cyclic_peptides_docking_results/4_CyclicPeptide_25mer_chain_G_Ab1_CDR-L3_relax_energy.log
+
+
+Peptide: 3_CyclicPeptide_15mer_chain_G
+Sequence: CYSTYRPHEPROGLNSERTYRGLYGLNTHRASNGLYVALGLYCYS
+----------------------------------------
+  Antibody: Ab0
+  Binding CDR: CDR-L3
+  Initial Score: -389.9094536190101
+  Relaxed Score: -490.7658100968234
+  Binding to CDR: True
+  Contains Epitope: False
+  Output PDB: cyclic_peptides_docking_results/3_CyclicPeptide_15mer_chain_G_Ab0_CDR-L3_relaxed_complex.pdb
+  Energy Log: cyclic_peptides_docking_results/3_CyclicPeptide_15mer_chain_G_Ab0_CDR-L3_relax_energy.log
+
+  Antibody: Ab1
+  Binding CDR: CDR-L3
+  Initial Score: -212.1558209097323
+  Relaxed Score: -235.88819403602594
+  Binding to CDR: True
+  Contains Epitope: False
+  Output PDB: cyclic_peptides_docking_results/3_CyclicPeptide_15mer_chain_G_Ab1_CDR-L3_relaxed_complex.pdb
+  Energy Log: cyclic_peptides_docking_results/3_CyclicPeptide_15mer_chain_G_Ab1_CDR-L3_relax_energy.log
+
+

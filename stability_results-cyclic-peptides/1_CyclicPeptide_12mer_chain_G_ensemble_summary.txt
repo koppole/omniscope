@@ -1,0 +1,10 @@
+=== Peptide Flexibility Analysis ===
+
+Number of ensemble structures: 5
+Average pairwise RMSD: 0.29 Å
+Maximum pairwise RMSD: 0.43 Å
+Flexibility classification: Low (Rigid)
+
+Interpretation:
+This peptide is relatively rigid, maintaining a consistent structure
+across different simulations. This suggests high structural stability.

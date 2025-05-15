@@ -1,0 +1,60 @@
+========================================
+       PEPTIDE STABILITY REPORT         
+========================================
+
+Peptide Length: 20 residues
+Sequence: CYSARGARGTHRGLYLYSASPTYRTYRTYRLEUPHEILETYRALAGLYSERGLUGLYCYS
+
+OVERALL STABILITY SCORE: 0.2/10
+Stability Classification: Very Low
+
+ENERGY ANALYSIS:
+Total Energy: -2.02
+Energy per Residue: -0.10
+Unstable Residues (high energy outliers):
+  Y14: 4.09
+
+SECONDARY STRUCTURE ANALYSIS:
+Structure: LLLLLLLLLLLLLLLLLLLL
+Helix: 0.0%
+Sheet: 0.0%
+Loop: 100.0%
+Total Structured: 0.0%
+Structure-based Stability: Low
+
+RAMACHANDRAN ANALYSIS:
+Favorable: 0.0%
+Allowed: 0.0%
+Outlier: 100.0%
+Ramachandran-based Stability: Low
+
+Residues with unfavorable backbone geometry:
+  R2: Phi=-6969.4, Psi=-2549.9
+  R3: Phi=2823.4, Psi=2900.7
+  T4: Phi=4080.4, Psi=-2953.9
+  G5: Phi=-5252.9, Psi=-8116.1
+  K6: Phi=2999.9, Psi=2735.8
+  D7: Phi=-4610.6, Psi=4147.6
+  Y8: Phi=-8566.0, Psi=9238.5
+  Y9: Phi=-4890.8, Psi=7874.8
+  Y10: Phi=-8583.3, Psi=9623.6
+  L11: Phi=-5095.0, Psi=7048.3
+  F12: Phi=-8591.2, Psi=9250.1
+  I13: Phi=-6572.5, Psi=-3581.8
+  Y14: Phi=2530.4, Psi=3628.8
+  A15: Phi=-4295.2, Psi=4978.9
+  G16: Phi=3254.7, Psi=-7166.9
+  S17: Phi=-8949.4, Psi=9781.8
+  E18: Phi=-2991.2, Psi=7431.3
+  G19: Phi=-10210.1, Psi=-569.2
+
+TEMPERATURE STABILITY:
+Temperature stability could not be calculated
+
+SUMMARY AND RECOMMENDATIONS:
+This peptide shows very low stability overall.
+
+Recommendations to improve stability:
+1. Consider mutating high-energy residues to more favorable amino acids.
+2. The peptide has low secondary structure content. Consider adding helix or sheet stabilizing residues.
+3. Several residues have unfavorable backbone geometry. Redesign these regions or add stabilizing interactions.
